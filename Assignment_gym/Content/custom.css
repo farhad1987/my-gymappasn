@@ -1,0 +1,31 @@
+﻿#headernav,#footernav{
+    background-color:cadetblue;
+    height:100px;
+
+}
+
+/*login and home link*/
+#Login, #Home{
+    color:white;
+    font-size:larger;
+    font-weight:bolder;
+}
+#searchicon
+{
+    background-color:green;
+    border:white;
+}
+#logo,#Image1{
+    width:50px;
+    height:50px;
+    border-radius: 50%;
+}
+
+
+#srch
+{
+    width:500px;
+    
+}
+
+
